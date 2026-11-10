@@ -17,3 +17,6 @@ lab2_workspace/
 data/embeddings/
 DM2026-Lab2-AgentPipeline-Grading-Reference.ipynb
 DM2026-Lab2-Master-Grading-Reference.ipynb
+
+.claude/
+reference/
